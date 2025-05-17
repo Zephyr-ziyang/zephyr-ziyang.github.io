@@ -1,5 +1,6 @@
 
-(![Zepyhr-ziyang](https://img.shields.io/badge/ziyang-github-blue%3Flogo%3Dgithub))(https://github.com/Zepyhr-ziyang)
+![Static Badge](https://img.shields.io/badge/ziyang-github-blue?style=flat&logo=github)
+
 
 
 He is an undergraduate student pursuing mathematics at the School of Mathematical Sciences, Fudan University.
